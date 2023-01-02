@@ -1,5 +1,5 @@
 # Hi there 👋
-I am Apache, 3D environnement artist working on blender and doing mods on FiveM. I am Also learning front-end web development.
+I am Apache, 3D environnement artist working on blender and doing mods on FiveM. I am Also learning front-end web development on the side of doing mods.
 ## 📚 Skills and Experience
 - Angular (learning)
 - React (learning)
